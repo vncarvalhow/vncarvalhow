@@ -34,10 +34,6 @@
   - Sistemas e serviços: Windows Servers, Linux, AMS, UNM2000, U2000, DNS, etc.
   - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude.
   - Outros: HotSpot Unifi, Zimbra, CDN OTT.
-     
-• Programação e Automação
- - Foco: Sempre estudando para integrar a força da programação na automação de protocolos e equipamentos de rede.
-
 
 - 💻  Especialista em Redes e Tecnologia
 - 🚀  CTO na [UbiNet](https://ubinet.net.br)
