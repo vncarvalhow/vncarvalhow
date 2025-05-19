@@ -76,11 +76,17 @@
   <img align="center" alt="Nginx" title="Nginx" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"> &nbsp;
   <img align="center" alt="Cloudflare" title="Cloudflare" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"> &nbsp;
   
+  <!-- Cloud & IA -->
+  <img align="center" alt="GCP" title="Google Cloud Platform" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> &nbsp;
+  <img align="center" alt="AWS" title="Amazon Web Services" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"> &nbsp;
+  <img align="center" alt="IA" title="Inteligência Artificial" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> &nbsp;
+  
   <!-- Sistemas Operacionais & IDEs -->
   <img align="center" alt="Linux" title="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> &nbsp;
   <img align="center" alt="Debian" title="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"> &nbsp;
+  <img align="center" alt="Windows Server" title="Windows Server" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> &nbsp;
   <img align="center" alt="VSCode" title="Visual Studio Code" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
-  <img align="center" alt="Nano" title="Editor Nano" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"> &nbsp;
+  <img align="center" alt="Editor de Texto" title="Editor de Texto (Nano)" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"> &nbsp;
 </div>
       
 ### 💭 Redes Sociais:
