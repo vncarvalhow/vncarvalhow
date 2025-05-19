@@ -78,12 +78,12 @@
   <!-- Cloud & IA -->
   <img align="center" alt="GCP" title="Google Cloud Platform" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> &nbsp;
   <img align="center" alt="AWS" title="Amazon Web Services" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> &nbsp;
-  <img align="center" alt="IA" title="Inteligência Artificial" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> &nbsp;
+  <img align="center" alt="IA" title="Inteligência Artificial" width="40" height="40" src="https://static.wikia.nocookie.net/logopedia/images/b/bc/Anthropic_Claude_Icon.svg/revision/latest?cb=20230830195614"> &nbsp;
 
   <!-- Monitoramento, Virtualização e Storage -->
-  <img align="center" alt="Zabbix" title="Zabbix" width="40" height="40" src="https://cdn.simpleicons.org/zabbix/F05032"> &nbsp;
+  <img align="center" alt="Zabbix" title="Zabbix" width="40" height="40" src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png"> &nbsp;
   <img align="center" alt="Grafana" title="Grafana" width="40" height="40" src="https://cdn.simpleicons.org/grafana/F46800"> &nbsp;
-  <img align="center" alt="PRTG" title="PRTG Network Monitor" width="40" height="40" src="https://cdn.simpleicons.org/paessler/0098CE"> &nbsp;
+  <img align="center" alt="PRTG" title="PRTG Network Monitor" width="40" height="40" src="https://www.paessler.com/favicon.ico"> &nbsp;
   <img align="center" alt="VMware" title="VMware ESXi" width="40" height="40" src="https://cdn.simpleicons.org/vmware/607078"> &nbsp;
   <img align="center" alt="TrueNAS" title="TrueNAS" width="40" height="40" src="https://cdn.simpleicons.org/truenas/0095D5"> &nbsp;
   <img align="center" alt="Dell" title="Dell" width="40" height="40" src="https://cdn.simpleicons.org/dell/007DB8"> &nbsp;
