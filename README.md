@@ -10,30 +10,15 @@
 ### 🧐 Sobre mim:
 
 • Redes e Infraestrutura
- - Responsabilidades principais:
-   - Gerenciamento de core e backbone, incluindo configuração de BGP e ferramentas de mitigação de DDoS.
-   - Configuração e manutenção de roteadores de borda e BNG das marcas Nokia, Juniper e Huawei.
- - Configuração e ajustes de switches avançados, como:
-   - Huawei: S6720, S6730
-   - Datacom: DM2104, DM4370
-   - Cisco: ME3600X
-   - Nokia 7250 IXR-e
-         
-- Configuração e gerenciamento de roteadores e rádios Mikrotik, Ubiquiti e Mimosa.
-- Implantação e configuração de OLTs (Fiberhome, Huawei, Nokia) e ONUs (Zyxel, Fiberhome, Huawei, Nokia).
-
  - Protocolos e Tecnologias:
-   - Protocolos de rede: IP, OSPF, MPLS, MPLS-TE, BGP, xSTP.
+   - Protocolos de rede: IP, OSPF, MPLS, MPLS-TE, BGP, xSTP, SDP, SDP-TE
      
 • Servidores e Virtualização
- - Servidores físicos:
-   - Experiência com implementação e manutenção em servidores Dell.
-
 - Servidores virtuais:
   - Implantação e manutenção de VMs, incluindo:
   - Sistemas e serviços: Windows Servers, Linux, AMS, UNM2000, U2000, DNS, etc.
-  - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude.
-  - Outros: HotSpot Unifi, Zimbra, CDN OTT.
+  - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude, etc.
+  - Outros: HotSpot Unifi, Zimbra, CDN OTT, etc.
 
 - 💻  Especialista em Redes e Tecnologia
 - 🚀  CTO na [UbiNet](https://ubinet.net.br)
