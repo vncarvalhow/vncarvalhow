@@ -2,23 +2,9 @@
 <div>
 
  Sou Vinícius Carvalho, um entusiasta de tecnologia apaixonado desde 2003, quando iniciei minha jornada com meu primeiro computador. Desde então, mergulhei em diferentes áreas da tecnologia, com especialização em redes.
- Ao longo dos anos, adquiri um vasto conhecimento que abrange desde a montagem e manutenção de servidores até protocolos e equipamentos avançados em redes.
 </div>
 
 ##
-
-### 🧐 Sobre mim:
-
-• Redes e Infraestrutura
- - Protocolos e Tecnologias:
-   - Protocolos de rede: IP, OSPF, MPLS, MPLS-TE, BGP, xSTP, SDP, SDP-TE
-     
-• Servidores e Virtualização
-- Servidores virtuais:
-  - Implantação e manutenção de VMs, incluindo:
-  - Sistemas e serviços: Windows Servers, Linux, AMS, UNM2000, U2000, DNS, etc.
-  - Ferramentas de monitoramento: PRTG, LibreNMS, Zabbix, The Dude, etc.
-  - Outros: HotSpot Unifi, Zimbra, CDN OTT, etc.
 
 - 💻  Especialista em Redes e Tecnologia
 - 🚀  CTO na [UbiNet](https://ubinet.net.br)
