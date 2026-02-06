@@ -21,13 +21,11 @@
   <img align="center" alt="JavaScript" title="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
   <img align="center" alt="Python" title="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
   <img align="center" alt="PHP" title="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> &nbsp;
-  <img align="center" alt="CSharp" title="C#" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> &nbsp;
   <img align="center" alt="Lua" title="Lua" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
   <img align="center" alt="ShellScript" title="Shell Script" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> &nbsp;
   
   <!-- Frameworks e Bibliotecas -->
   <img align="center" alt="Bootstrap" title="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp;
-  <img align="center" alt="CodeIgniter" title="CodeIgniter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"> &nbsp;
   <img align="center" alt="Laravel" title="Laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"> &nbsp;
   
   <!-- Bancos de Dados -->
@@ -60,7 +58,6 @@
   <img align="center" alt="Debian" title="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"> &nbsp;
   <img align="center" alt="Windows Server" title="Windows Server" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> &nbsp;
   <img align="center" alt="VSCode" title="Visual Studio Code" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
-  <img align="center" alt="Editor de Texto" title="Editor de Texto (Nano)" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"> &nbsp;
 </div>
       
 ### 💭 Redes Sociais:
